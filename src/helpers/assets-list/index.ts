@@ -18,7 +18,7 @@ export const assetsList: Asset[] = [
   {
     name: 'Aave',
     symbol: 'AAVE',
-    color: '#b6509e',
+    color: '#FF6969',
     icon: icons.aave,
     aIcon: aIcons.aaave,
   },

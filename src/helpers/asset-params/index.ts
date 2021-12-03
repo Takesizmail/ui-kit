@@ -4,7 +4,7 @@ export const getAssetColor = (assetSymbol: string) => {
   const asset = getAssetInfo(assetSymbol);
   const assetColor = asset.color;
 
-  return assetColor || '#2ebac6';
+  return assetColor || '#FF6969';
 };
 
 export const STABLE_ASSETS = [

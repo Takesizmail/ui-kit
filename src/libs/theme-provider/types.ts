@@ -17,5 +17,9 @@ export interface Themes {
     gray: { hex: string; rgb: number[] };
     lightGray: { hex: string; rgb: number[] };
     disabledGray: { hex: string; rgb: number[] };
+    whiteMain: { hex: string; rgb: number[] };
+    newDarkBlue: { hex: string; rgb: number[] };
+    seaBlue: { hex: string; rgb: number[] };
+    linkBLue: { hex: string; rgb: number[] };
   };
 }
